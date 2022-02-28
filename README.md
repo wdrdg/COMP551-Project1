@@ -18,13 +18,13 @@ Regarding the implementation, we recommend the following approach (but again, yo
 
 • Each of your models classes should have (at least) two functions:
 
-    – Deﬁne a fit function, which takes the training data (i.e., X and Y)—as well as other hyperparameters (e.g., K value in KNN and maximum tree depth in Decision Tree)—as input. This function should train your model by modifying the model parameters.
+    –Deﬁne a fit function, which takes the training data (i.e., X and Y)—as well as other hyperparameters (e.g., K value in KNN and maximum tree depth in Decision Tree)—as input. This function should train your model by modifying the model parameters.
     
-    – Deﬁne a predict function, which takes a set of input points (i.e., X) as input and outputs predictions (i.e., y) for these points.
+    –Deﬁne a predict function, which takes a set of input points (i.e., X) as input and outputs predictions (i.e., y) for these points.
     
 • In addition to the model classes, you should also deﬁne a functions evaluate_acc to evaluate the model accuracy.
     
-    - This function should take the true labels (i.e., y), and target labels (i.e., y) as input, and it should output 
+    -This function should take the true labels (i.e., y), and target labels (i.e., y) as input, and it should output 
     
 # Run experiments
 Split each dataset into training and test sets. Use test set to estimate performance in all of the experiments after training the model with training set. Evaluate the performance using accuracy. At a minimum you must complete the following experiments:
