@@ -10,7 +10,7 @@ https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 http://archive.ics.uci.edu/ml/datasets/Hepatitis
 
 # Implement the models
-Implement the models from scratch (i.e., you CANNOT use SciKit Learn or any other pre-existing implementations of these methods).
+Implement the models from scratch
 
 Regarding the implementation, we recommend the following approach (but again, you are free to do what you want):
 
