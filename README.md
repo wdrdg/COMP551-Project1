@@ -2,7 +2,7 @@
 In this project, we implemented two classiﬁcation techniques—K-Nearest Neighbour and Decision Trees from scratch and compare these two algorithms on two distinct health datasets.
 
 # Dataset
-• Dataset 1: breast cancer wisconsin.csv (Breast Cancer dataset):
+• Dataset 1: breast cancer wisconsin.csv (Breast Cancer dataset)://
 https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 • Dataset 2: hepatitis.csv (Hepatitis dataset):
 http://archive.ics.uci.edu/ml/datasets/Hepatitis
